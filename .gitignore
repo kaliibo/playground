@@ -1,0 +1,11 @@
+node_modules
+dist
+Icon
+Desktop.ini
+.idea
+.DS_Store
+.Thumbs.db
+.Trashes
+.sass-cache
+.Spotlight-V100
+*.pyc
